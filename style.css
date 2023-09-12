@@ -1,5 +1,7 @@
 body {
     margin: 20px;
+    background-color: #F7F3FF;
+    color: #272044;
 }
 ul {
 list-style: none;
@@ -17,6 +19,7 @@ h1 {
 }
 .nav-links a {
     margin: 0 20px;
+    color: #ED669A
 }
 p {
     text-align: center;
